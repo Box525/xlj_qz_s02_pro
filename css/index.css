@@ -149,7 +149,7 @@ html,body{
     font-size: 14px;
     background:#f8f6f7 url('../sources/images/home.png') no-repeat left center;
     text-indent: 40px;
-    
+    border-left: 4px solid #f8f6f7;
 }
 
 .item-selected {
