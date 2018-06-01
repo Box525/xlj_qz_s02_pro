@@ -134,7 +134,8 @@ html,body{
     line-height: 72px;
     color: #f47f03;
     font-size: 14px;
-    background:#f5f3f3 url('../sources/images/home.png') no-repeat left center;
+    /* background: #f5f3f3; */
+    /* background:#f5f3f3 url('../sources/images/home.png') no-repeat left center; */
     text-indent: 40px;
 }
 
